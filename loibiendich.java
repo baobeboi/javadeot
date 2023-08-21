@@ -5,5 +5,6 @@ public class loibiendich {
         System.out.println("xin chao");
         final int x = 10;
         System.out.println(x);
+        
     }
 }
